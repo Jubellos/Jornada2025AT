@@ -5,7 +5,7 @@ elemento.textContent = nomeUsuario;
 }
 inserirNome();
 
-let linguagens = ["JavaScript","Pyton","C++"]
+let linguagens = ["JavaScript","Pyton","C++"];
 console.log(linguagens[0])
 console.log(linguagens[1])
 console.log(linguagens[2])
