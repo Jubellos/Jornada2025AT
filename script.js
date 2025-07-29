@@ -14,3 +14,6 @@ const lista = document.querySelector("#lista");
 lista.textContent = linguagens[0];
 //lista.textContent = linguagens[1];//
 //lista.textContent = linguagens[2];//
+
+const objeto = document.querySelector("#aluno");
+objeto.textContent = aluno1.nome;
